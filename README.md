@@ -1,2 +1,2 @@
-# demo-faraday
+# Practice Git
 Git and Github FreeCodeCamp Demo
